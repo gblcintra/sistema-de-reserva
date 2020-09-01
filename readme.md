@@ -55,3 +55,17 @@ $ php artisan serve
 
 - *user: camp@capi.com.br
 - *password: admin
+
+<h2>Tela de Login</h2>
+<img scr"https://github.com/gblcintra/sistema-de-reserva/blob/master/public/images/login.png" />
+<h2>Registro de Reserva</h2>
+<img scr"https://github.com/gblcintra/sistema-de-reserva/blob/master/public/images/Cadastro%20de%20Reserva.png" />
+<h2>Tela de Usuário</h2>
+<img scr"https://github.com/gblcintra/sistema-de-reserva/blob/master/public/images/localhost_users.png" />
+<img scr"https://github.com/gblcintra/sistema-de-reserva/blob/master/public/images/localhost_users_create.png" />
+<h2>Tela de Perfil de Usuário</h2>
+<img scr"https://github.com/gblcintra/sistema-de-reserva/blob/master/public/images/localhost_profiles.png" />
+<h2>Tela de Pesquisa</h2>
+<img scr"https://github.com/gblcintra/sistema-de-reserva/blob/master/public/images/localhost_search.png" />
+<h2>Tela de Log</h2>
+<img scr"https://github.com/gblcintra/sistema-de-reserva/blob/master/public/images/localhost_logs.png" />

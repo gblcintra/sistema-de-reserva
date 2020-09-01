@@ -1,0 +1,127 @@
+body,
+html {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.input-red {
+    background : #FF4500 !important;
+}
+.marcador{
+    border:1px solid red;
+}
+
+.bgwhite{
+    background-color: #ffffffdb;
+    padding: 30px!important;
+
+}
+fieldset {
+        border: 1px solid silver ;
+        padding: .35em .625em .75em;
+        margin: 0 2px;
+        margin-bottom: 5px;
+}
+legend {
+    border: none;
+    width: auto;
+}
+.people {
+    margin-bottom: 40px;
+}
+#colorBraceletDiv{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 5px;
+    border:solid  1px #c0c0c0;
+}
+
+canvas {
+    width: 44px;
+    height: 23px;
+}
+
+
+#colorBracelet{
+    width: 60px;
+    height: 60px;
+    border-radius: 45px;
+}
+input[type="checkbox"]{
+    opacity: 100 !important;
+}
+
+.skin-blue .left-side {
+    background: #ACCAF2;
+    -webkit-box-shadow: inset -3px 0px 8px -4px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: inset -3px 0px 8px -4px rgba(0, 0, 0, 0.1);
+    box-shadow: -7px -6px 6px 8px rgba(172,202,242,1);
+    z-index: 100;
+
+}
+  
+.skin-blue .sidebar > .sidebar-menu > li {
+
+    border-top: 0px solid #fff;
+    border-bottom: 0px solid #dbdbdb;
+
+}
+
+  .skin-blue .sidebar > .sidebar-menu > li {
+    border-top: 0px solid #fff;
+    border-bottom: 0px solid #dbdbdb;
+  }
+
+  .skin-blue .sidebar > .sidebar-menu > li:first-of-type {
+    border-top: 0px solid #dbdbdb;
+  }
+  .skin-blue .sidebar > .sidebar-menu > li:first-of-type > a {
+    border-top: 0px solid #fff;
+  }
+
+  .skin-blue .sidebar > .sidebar-menu > li > a {
+    margin-right: 0px;
+  }
+  .skin-blue .sidebar {
+    border-bottom: 0px solid #fff;
+}
+
+.footer {
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background: #835C43;
+    height: 41px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 28px;
+}
+
+.box {
+    position: relative;
+    background: #FBFBFB;;
+    border-top: 2px solid #8EDEB9;
+    width: 100%;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-bottom: 0px;
+}
+
+.content {
+
+    padding: 20px 15px;
+    background: #FFFFFF;
+
+}
+.wrapper{
+    min-height: 695px;
+    background: #ffffff;
+}
+
+.skin-blue .sidebar > .sidebar-menu > li > a:hover, .skin-blue .sidebar > .sidebar-menu > li.active > a {
+    color: #222;
+    background: #40B5FF;
+    transition: linear 0.2s;
+}
+
